@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बस जावा</string>
+    <string name="_0">0</string>
+    <string name="_name">नाम</string>
+    <string name="cheese">पनीर</string>
+    <string name="enter_your_mobile_no">अपना मोबाइल नंबर डालें।</string>
+    <string name="enter_your_name">अपना नाम दर्ज करें</string>
+    <string name="integer_one">1</string>
+    <string name="is_cheese_checked">पनीर की जाँच की है</string>
+    <string name="is_whipped_cream_checked">पनीर का चयन किया है</string>
+    <string name="minus">-</string>
+    <string name="mobile_no">मोबाइल नंबर</string>
+    <string name="order">आदेश दें</string>
+    <string name="order_summary">आदेश सारांश</string>
+    <string name="plus">+</string>
+    <string name="quantity">मात्रा</string>
+    <string name="thank_you">धन्यवाद</string>
+    <string name="topping">उपरी परत</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="total">संपूर्ण</string>
+    <string name="whipped_cream">फेटी हुई मलाई</string>
+
+</resources>
